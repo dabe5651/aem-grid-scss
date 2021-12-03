@@ -20,3 +20,8 @@
   .aem-GridShowHidden > .aem-Grid > .aem-GridColumn {
     display: block !important;
   }
+
+  /* fix colapsed .new.newpar dropzones */
+  .container .new.newpar {
+    width: 100%;
+  }
